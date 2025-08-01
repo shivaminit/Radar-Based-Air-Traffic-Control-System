@@ -81,3 +81,10 @@ This project was a significant learning experience, involving:
 * **Radar Systems Fundamentals:** Deepening understanding of radar equation, SNR, detection thresholds, and atmospheric effects.
 
 ## Visualization and Analysis
+<img width="1918" height="1017" alt="aircraftrange" src="https://github.com/user-attachments/assets/fe9fbbd9-e1ea-4436-8e8b-4a3c8a9d8cc3" />
+<img width="1918" height="1020" alt="SNR_flag" src="https://github.com/user-attachments/assets/890df413-1356-48b0-9498-594002d9fb49" />
+<img width="1917" height="1021" alt="Received Power vs  Noise" src="https://github.com/user-attachments/assets/7dedb205-f0a2-490b-a4c8-35494d50a825" />
+<img width="1918" height="1022" alt="Weather Effect On Radar Performance" src="https://github.com/user-attachments/assets/1929b347-16a7-4028-8215-c5e6a19e3402" />
+
+
+

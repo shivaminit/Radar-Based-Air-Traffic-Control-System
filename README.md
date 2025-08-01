@@ -79,3 +79,5 @@ This project was a significant learning experience, involving:
 * **Advanced Debugging:** Overcoming numerous challenges related to callback timing, variable synchronization across workspaces, handling `NaN`/`Inf` propagation, and resolving structural mismatches in Simulink signal types (scalars vs. buses).
 * **Simulink & Stateflow Mastery:** Gaining practical expertise in building detailed subsystem models, implementing mathematical functions, and designing event-driven logic in Stateflow.
 * **Radar Systems Fundamentals:** Deepening understanding of radar equation, SNR, detection thresholds, and atmospheric effects.
+
+## Visualization and Analysis
